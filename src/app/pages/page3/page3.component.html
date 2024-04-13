@@ -1,0 +1,8 @@
+<div>
+    {{exampleArray}}
+</div>
+
+<div *ngFor="let item of exampleArray | reverse: {isAddingPointInTheEnd: true, isAddingTwoPointsInTheEnd: false}">
+    {{item}}
+</div>
+

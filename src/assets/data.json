@@ -1,0 +1,20 @@
+[
+        {
+            "id": 1,
+            "name": "BMV",
+            "diesel": false,
+            "colour": ["red", "black", "yellow"]
+        },
+        {
+            "id": 2,
+            "name": "Mercedess",
+            "diesel": true,
+            "colour": ["red", "white", "yellow"]
+        },
+        {
+            "id": 3,
+            "name": "Volvo",
+            "diesel": false,
+            "colour": ["blue", "black", "orange"]
+        }
+    ]
